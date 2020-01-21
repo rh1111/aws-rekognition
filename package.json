@@ -1,0 +1,34 @@
+{
+  "name": "aws-rekognition-getting-started",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.8.3",
+    "@zeit/next-css": "^1.0.1",
+    "aws-sdk": "^2.605.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "filepond": "^4.9.4",
+    "filepond-plugin-image-exif-orientation": "^1.0.6",
+    "filepond-plugin-image-preview": "^4.6.0",
+    "mongoose": "^5.8.7",
+    "multer": "^1.4.2",
+    "multer-s3-transform": "^2.3.2",
+    "next": "9.2.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-filepond": "^7.0.1",
+    "react-webcam": "^4.1.1",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.8.3",
+    "@babel/preset-env": "^7.8.3",
+    "nodemon": "^2.0.2"
+  }
+}
