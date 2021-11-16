@@ -10,7 +10,7 @@
   "dependencies": {
     "@material-ui/core": "^4.8.3",
     "@zeit/next-css": "^1.0.1",
-    "aws-sdk": "^2.605.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "filepond": "^4.9.4",
