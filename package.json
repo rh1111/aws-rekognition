@@ -12,7 +12,7 @@
     "@zeit/next-css": "^1.0.1",
     "aws-sdk": "^2.605.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "filepond": "^4.9.4",
     "filepond-plugin-image-exif-orientation": "^1.0.6",
     "filepond-plugin-image-preview": "^4.6.0",
